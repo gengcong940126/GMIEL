@@ -2,7 +2,7 @@
 Code for paper "Solving the reconstruction-generation trade-off: generative model with implicit embedding learning".
 
 # Training
-To train the model on MNIST, run
+To train the model, run
 ```
 python ./train.py
 ```
